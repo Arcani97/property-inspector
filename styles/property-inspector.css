@@ -1,0 +1,31 @@
+#property-inspector-tooltip {
+  position: fixed;
+  z-index: 999999;
+  pointer-events: none;
+  font-family: monospace;
+  background: #1a1a1a;
+  color: #dcdcdc;
+  border: 1px solid #444;
+  border-radius: 5px;
+  padding: 6px 10px;
+  max-width: 420px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+#property-inspector-tooltip .pi-path {
+  color: #8be9fd;
+  font-weight: bold;
+  word-break: break-all;
+}
+
+#property-inspector-tooltip .pi-hint {
+  color: #ffb86c;
+  font-size: 11px;
+  margin-top: 2px;
+}
+
+.property-inspector-highlight {
+  outline: 2px solid #8be9fd !important;
+  outline-offset: 1px;
+  background-color: rgba(139, 233, 253, 0.12) !important;
+}

@@ -1,0 +1,9 @@
+{
+  "PROPERTYINSPECTOR.Keybinding.Name": "Ativar/Desativar Inspetor de Propriedades",
+  "PROPERTYINSPECTOR.Keybinding.Hint": "Enquanto ativo, passe o mouse sobre um campo de uma ficha (Item ou Actor) para ver o caminho de dados. Clique sobre o campo para copiar o caminho.",
+  "PROPERTYINSPECTOR.Notif.Activated": "Inspetor de Propriedades: ATIVADO",
+  "PROPERTYINSPECTOR.Notif.Deactivated": "Inspetor de Propriedades: DESATIVADO",
+  "PROPERTYINSPECTOR.Notif.Copied": "Caminho copiado: {path}",
+  "PROPERTYINSPECTOR.Tooltip.ClickToCopy": "clique para copiar",
+  "PROPERTYINSPECTOR.Tooltip.ApproxMatch": "correspondência aproximada · clique para copiar"
+}
