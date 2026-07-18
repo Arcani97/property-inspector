@@ -8,6 +8,8 @@
 
 </div>
 
+<br>
+
 <h2>How to use</h2>
 
 <ol>
@@ -18,6 +20,8 @@
   <li>Press the shortcut again to deactivate.</li>
 </ol>
 
+<br>
+
 <h2>Game system compatibility</h2>
 
 <p>The module is system-agnostic: it doesn't rely on any system-specific configuration to work, unlike modules that need a field mapped per system. It reads whatever <code>name</code> or <code>data-edit</code> attribute Foundry itself puts on a field, so any system built the standard way is supported out of the box.</p>
@@ -26,9 +30,13 @@
 
 <p>For elements that don't expose a name (plain read-only text, for instance), the module falls back to matching the visible text against the item's raw <code>system</code> data. This fallback is best-effort: it can fail if two fields share the same value, or if the displayed text differs from the stored raw value.</p>
 
+<br>
+
 <h2>Default Shortcut</h2>
 
 <p><kbd>Alt</kbd> + <kbd>P</kbd>. Fully rebindable in Foundry's <strong>Configure Controls</strong> menu, under <strong>Property Path Inspector</strong>.</p>
+
+<br>
 
 <h2>Adding a new language</h2>
 
@@ -48,6 +56,8 @@
 
 <p>No other file needs to be touched to translate the module — all interface text comes from the files in <code>lang/</code>.</p>
 
+<br>
+
 <h2>Module structure</h2>
 
 <pre><code>property-inspector/
@@ -60,6 +70,8 @@
     ├── en.json                     English
     └── pt-BR.json                  Portuguese
 </code></pre>
+
+<br>
 
 <h2>Technical notes</h2>
 
