@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/Arcani97/property-inspector"><img src="https://img.shields.io/badge/Home-7c7e7e?logo=googlehome" alt="home"></a>
-<a href="https://github.com/Arcani97/property-inspector/blob/main/README-en.md"><img src="https://img.shields.io/badge/README-EN-00247d?style=flat&labelColor=242526" alt="en"></a>
+<a href="https://github.com/Arcani97/property-inspector"><img src="https://img.shields.io/badge/Home-242526?logo=googlehome" alt="home"></a>
+<a href="https://github.com/Arcani97/property-inspector/blob/main/README-en.md"><img src="https://img.shields.io/badge/README-EN-00247d?style=flat&labelColor=7c7e7e" alt="en"></a>
 <a href="https://github.com/Arcani97/property-inspector/blob/main/README-ptbr.md"><img src="https://img.shields.io/badge/README-PT--BR-004f1e?style=flat&labelColor=242526" alt="ptbr"></a>
 
 <h1>Property Path Inspector</h1>
